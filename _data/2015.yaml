@@ -399,11 +399,11 @@
   Acquirer: Atomic Learning
   Notes: ''
 - Date: July
-  Name: The Financial Times (sold by Pearson)
+  Name: The Financial Times
   Amount: '$1,300,000,000'
   URL: 'http://www.edukwest.com/pearson-ft-nikkei/'
   Acquirer: Nikkei
-  Notes: ''
+  Notes: Sold by Pearson
 - Date: July
   Name: Courseload
   Amount: undisclosed
@@ -428,8 +428,8 @@
   Name: The Economist
   Amount: '$730,000,000'
   URL: >-
-    http://www.theatlantic.com/business/archive/2015/08/pearson-sale-economist/401120/
-  Acquirer: ''
+    https://qz.com/477743/the-economist-is-being-sold-to-rich-italian-investors-and-to-the-economist-itself/
+  Acquirer: The Agnelli Family
   Notes: Sold by Pearson
 - Date: August
   Name: Smart Tuition
@@ -525,7 +525,7 @@
   Amount: undisclosed
   URL: >-
     http://www.buzzfeed.com/mollyhensleyclancy/joel-klein-is-buying-rupert-murdochs-failed-education-biz#.wcq9OvMY9
-  Acquirer: ''
+  Acquirer: Joel Klein and other Amplify execs
   Notes: Emerson Collective was one of the backers
 - Date: October
   Name: Mobile Makers Academy
