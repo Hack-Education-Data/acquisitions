@@ -9,7 +9,7 @@ title: 2015 Ed-Tech Acquisitions
 
 <!-- Document -->
 
-{% for acquisition in acquisition %}
+{% for acquisition in acquisitions %}
 
 <ul>
 <li><strong>{{ acquisition.Name }}</strong> was aquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
